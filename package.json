@@ -1,0 +1,25 @@
+{
+  "name": "fake-artist-gamemaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanhackstadt/fake-artist-gamemaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/evanhackstadt/fake-artist-gamemaster/issues"
+  },
+  "homepage": "https://github.com/evanhackstadt/fake-artist-gamemaster#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.1"
+  }
+}
